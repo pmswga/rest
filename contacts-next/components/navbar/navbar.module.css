@@ -1,0 +1,41 @@
+
+.navbar{
+    margin: 10px 0;
+    padding: 10px 30px;
+    box-shadow: 5px 5px 40px rgba(27, 126, 133, 0.075);
+    background-color: rgb(67, 133, 245);
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+}
+
+.pages {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pages a{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 17px;
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+.pages a:hover{
+    transform: scale(1.5, 1.5);
+}
+
+#logo {
+    transition-property: all;
+    transition-duration: 0.3s;
+}
+
+
+#logo :hover{
+    transform: rotate(360deg);
+}

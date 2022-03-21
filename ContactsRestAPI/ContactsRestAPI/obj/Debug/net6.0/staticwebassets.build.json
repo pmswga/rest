@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pjXeLBAFm7Q4qGWxxZ/Hm6QV96wyBrIXpRaXz826Zr8=",
+  "Source": "ContactsRestAPI",
+  "BasePath": "_content/ContactsRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
